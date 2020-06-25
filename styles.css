@@ -1,0 +1,148 @@
+body{
+
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+margin: 0;
+}
+
+span{
+  text-decoration: underline;
+
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 250px
+}
+
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.top-container{
+background-color: #ddf3f5;
+position: relative;
+padding-top: 100px;
+
+
+}
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 30px;
+  margin-top: 50px;
+}
+h1{
+  color: #66bfbf;
+  font-size: 5em;
+  font-family: Nothing You Could Do, sans-serif;
+  margin: 50px auto 0 auto;
+  line-height: 2;
+}
+h2{
+  color: #66bfbf;
+  font-size: 2em;
+
+  font-weight: normal;
+}
+h3{
+
+
+  font-weight: bold;
+  color: #66bfbf;
+
+}
+.extra{
+
+ color: #40514e;
+
+  font-size: 1.25em;
+
+}
+.size{
+  color: #66bfbf;
+
+
+  font-size: 2.5rem;
+  font-weight: normal;
+
+}
+  hr {
+    background-color: white;
+    border-style: dotted none none;
+    width:4%;
+    border-width: 5px;
+    border-color: grey;
+
+  }
+  .circular{
+
+    border-radius: 100%;
+  }
+
+
+.flaticon{
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.skill-row{
+
+  width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.code-img{
+  float: left;
+  margin-right: 30px;
+  border-radius: 100%;
+}
+.chillie-img{
+  float: right;
+margin-left: 30px;
+border-radius: 100%;
+}
+.profile{
+  width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+.footer-link{
+  color: #11999e;
+  font-family: sans-serif;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+.footer-link:hover{
+  color: white;
+}
+.yolo{
+  font-family: sans-serif;
+  color: #eaf6f6;
+}
+.btn{
+   background-color: blue;
+ 
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Montserrat',sans-serif;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 40px;
+  
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+ 
+   background-color: #30E3CB;
+ 
+  
+   border-radius: 20px;
+   text-decoration: none;
+}
